@@ -17,12 +17,15 @@ Choosing which is the best Open Source Self Managed Solution.
 * Good plugins and community Support
 * Suport ODIC and OAuth
 * Support Custom implementaion of Wuerth Authentication
-* Should be able to send events to other microservicesssssssssssssssssssssssssssssss
+* Should be able to send events to other microservices
 
 ## Considered Options
 
 * Keycloak
 * WSO2
+* FreeIPA
+* Gluu
+* CAS (Central Authentication Service)
 
 ## Decision Outcome
 
