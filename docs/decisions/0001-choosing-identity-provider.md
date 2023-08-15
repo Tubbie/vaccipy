@@ -1,9 +1,9 @@
-# Choosing Identity Provider
+# Choosing Identity Provider Solution Type
 
 * Status: proposed
 * Date: 2023-08-15
 
-Technical Story: Choosing Identity Provider
+Technical Story: Authentication and Authorization
 
 ## Context and Problem Statement
 
