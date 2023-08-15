@@ -12,9 +12,9 @@ We need a new Identity Providers which is secure and supports Wuerth authticatio
 ## Decision Drivers
 
 * Support Wuerth Authentication (eShop, Orsyonline etc)
-* Low Cost
 * Deployment on Wurth IT as the this service contains User credential Data and information about clients (APIs, WebApps)
 * Communication to other services (REST, Events)
+* Cost affective
 
 ## Considered Options
 
@@ -28,7 +28,7 @@ Chosen option: "Open Source Self Managed", because it allows better time to mark
 
 ### Positive Consequences
 
-* High time to market
+* Low time to market
 * Allows apps to be integrated already.
 
 ### Negative Consequences
